@@ -47,7 +47,7 @@ import Home from "./components/Home.jsx";
           </div>
         )}
       </div>
-      <p className="footer">Designed by Austin 🤍</p>
+      <p className="footer">Designed by Ahamed Jaseer Sha</p>
     </div>
   );
 }
@@ -72,7 +72,7 @@ function Home() {
           <button className="btn primary">Start Calculating</button>
         </Link>
       </div>
-      <p className="footer">Designed by Austin 🤍</p>
+      <p className="footer">Designed by Ahamed Jaseer Sha</p>
     </div>
   );
 }
